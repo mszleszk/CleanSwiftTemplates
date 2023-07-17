@@ -1,5 +1,3 @@
-//___FILEHEADER___
-
 import UIKit
 
 protocol ___VARIABLE_productName:identifier___ViewControllerLogic: AnyObject {
